@@ -1,3 +1,4 @@
+Estudo baseado no link do youtube a seguir:
 https://www.youtube.com/watch?v=SjtdH3dWLa8&t=541s&ab_channel=ManualdoDev
 
-Finalizado.
+
